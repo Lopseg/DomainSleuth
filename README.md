@@ -4,7 +4,6 @@ DomainSleuth is a versatile and user-friendly command-line tool for discovering 
 Key Features:
 
 - Obtain SNI information from target domains, including issued certificate names and alternative names.
-- Discover subdomains of a target domain using DNS resolution.
 - Simple command-line interface for ease of use.
 
 Usage:
