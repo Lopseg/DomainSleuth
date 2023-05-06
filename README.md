@@ -18,6 +18,4 @@ Replace `<domain>` with the domain of interest, and DomainSleuth will return the
 Requirements:
 
 - Python 3.6 or later
-- dnspython library (`pip install dnspython`)
 
-Please note that the subdomain discovery method may not be exhaustive and might not find all existing subdomains. For a more comprehensive search, consider using additional techniques such as subdomain bruteforcing, reconnaissance service APIs, or passive data sources.
